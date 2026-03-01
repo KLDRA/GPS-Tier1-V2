@@ -1,0 +1,5 @@
+{
+  "name": "FieldTech Log",
+  "description": "Aplicación para técnicos de campo para registrar tiempos de trayecto y trabajo en clientes.",
+  "requestFramePermissions": ["geolocation"]
+}
